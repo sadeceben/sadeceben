@@ -14,12 +14,18 @@
 ![](https://img.shields.io/badge/Ansible-000000?style=for-the-badge&logo=ansible&logoColor=white)
 ![](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Hack&color=239315B7&lines=What's+up!+I'm+Cemal+-+sadeceben)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=500&pause=100&color=11F73C&random=false&width=435&lines=sadeceben;OSINT;lor3mipsum%40tutanota.com;TA2CTQ;TZ6N56RK)](https://git.io/typing-svg)
 
 ---
-I’m currently working on [Brandefense]("https://brandefense.io/") as R&D Engineer.
+<img align="right" alt="GIF" width="420px" src="https://c.tenor.com/XfiV1J8zT2EAAAAd/tenor.gif"/>
 
-[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](ko-fi.com/sadec3ben)
----
----
-![](https://media1.tenor.com/m/XfiV1J8zT2EAAAAC/2333.gif)
+- I’m currently working on [Brandefense]("https://brandefense.io/") as **R&D Engineer**.
+- Amateur radio call sign: **TA2CTQ**
+- Threema ID: **TZ6N56RK**
+
+### Last Post
+- [afk-defender](https://sadeceben.github.io//blog/AFK-DEFENDER/) 
+
+
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/sadec3ben)
+
